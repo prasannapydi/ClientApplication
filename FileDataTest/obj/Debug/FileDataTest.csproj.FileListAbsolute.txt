@@ -1,0 +1,14 @@
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\obj\Debug\FileDataTest.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\FileDataTest.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\FileDataTest.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\FileData.exe
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\ThirdPartyTools.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\FileData.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\ThirdPartyTools.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\obj\Debug\FileDataTest.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\obj\Debug\FileDataTest.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\nunit.framework.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileDataTest\bin\Debug\nunit.framework.xml

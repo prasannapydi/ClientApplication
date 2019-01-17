@@ -1,0 +1,8 @@
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\Users\User1\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
